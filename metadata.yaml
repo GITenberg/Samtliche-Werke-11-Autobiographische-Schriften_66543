@@ -1,0 +1,72 @@
+_repo: Samtliche-Werke-11-Autobiographische-Schriften_66543
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Merejkowski, Dmitri
+    - Mereschkowski, Dmitri
+    - Mérejkowski, Dmitri
+    - Merejkowsky, Dmitry de
+    - Mérejkowsky, Dmitry de
+    - Мережковский, Дмитрий Сергеевич
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+  translator:
+    agent_name: Rahsin, E. K.
+    aliases:
+    - Разин, Э. К.
+    - Rahsin, Less
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '49851'
+    url: http://www.gutenberg.org/2009/agents/49851
+    wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoyevsky, Fyodor Mikhailovich
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+  editor:
+    agent_name: Moeller van den Bruck, Arthur
+    aliases:
+    - Den Bruck, Arthur Moeller van
+    - Van den Bruck, Arthur Moeller
+    - Bruck, Arthur Moeller van den
+    birthdate: 1876
+    deathdate: 1925
+    gutenberg_agent_id: '49850'
+    url: http://www.gutenberg.org/2009/agents/49850
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+    - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+description: ''
+gutenberg_issued: '2021-10-15'
+identifiers:
+  gutenberg: '66543'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian literature -- Translations into German'
+- !lcc 'PG'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881'
+- GITenberg
+title: 'Sämtliche Werke 11: Autobiographische Schriften'
+url: http://www.gutenberg.org/ebooks/66543
